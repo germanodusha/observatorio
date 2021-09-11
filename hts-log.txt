@@ -1,0 +1,21 @@
+HTTrack3.49-2 launched on Fri, 10 Sep 2021 20:42:17 at http://206.81.1.69
+(httrack http://206.81.1.69 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:42:18	Warning: 	Note: due to 206.81.1.69 remote robots.txt rules, links beginning with these path will be forbidden: /includes/, /misc/, /modules/, /profiles/, /scripts/, /themes/, /CHANGELOG.txt, /cron.php, /INSTALL.mysql.txt, /INSTALL.pgsql.txt, /INSTALL.sqlite.txt, /install.php, /INSTALL.txt, /LICENSE.txt, /MAINTAINERS.txt, /update.php, /UPGRADE.txt, /xmlrpc.php, /admin/, /comment/reply/, /filter/tips/, /node/add/, /search/, /user/register/, /user/password/, /user/login/, /user/logout/, /?q=admin/, /?q=comment/reply/, /?q=filter/tips/, /?q=node/add/, /?q=search/, /?q=user/password/, /?q=user/register/, /?q=user/login/, /?q=user/logout/ (see in the options to disable this)
+20:46:53	Warning: 	file not stored in cache due to bogus state (broken size, expected 1666111 got 1492005): 206.81.1.69/sites/default/files/4_observatorio_-_voragem_da_historia_-_jaime_lauriano_terra_brasilis.jpg
+20:52:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 2250773 got 2198865): 206.81.1.69/sites/default/files/6_observatorio_-_voragem_da_historia_-_jaime_lauriano_terra_brasilis.jpg
+22:09:51	Warning: 	Retry after error -4 (Incorrect length (1492005 Bytes, 1666111 expected)) at link 206.81.1.69/sites/default/files/4_observatorio_-_voragem_da_historia_-_jaime_lauriano_terra_brasilis.jpg (from 206.81.1.69/)
+22:09:57	Warning: 	Retry after error -4 (Incorrect length (2198865 Bytes, 2250773 expected)) at link 206.81.1.69/sites/default/files/6_observatorio_-_voragem_da_historia_-_jaime_lauriano_terra_brasilis.jpg (from 206.81.1.69/)
+22:11:05	Error: 	"Not Found" (404) at link 206.81.1.69/sites/all/themes/observatorio/assets/stylesheets/bootstrap/glyphicons-halflings-regular.eot (from 206.81.1.69/sites/default/files/css/css_uB77O8GFXXg4EF3AIWjF9gi0sRgKIIPWdXB1JQqSYuk.css)
+22:11:05	Error: 	"Not Found" (404) at link 206.81.1.69/sites/all/themes/observatorio/assets/stylesheets/bootstrap/glyphicons-halflings-regular.eot? (from 206.81.1.69/sites/default/files/css/css_uB77O8GFXXg4EF3AIWjF9gi0sRgKIIPWdXB1JQqSYuk.css)
+22:11:05	Error: 	"Not Found" (404) at link 206.81.1.69/sites/all/themes/observatorio/assets/stylesheets/bootstrap/glyphicons-halflings-regular.woff (from 206.81.1.69/sites/default/files/css/css_uB77O8GFXXg4EF3AIWjF9gi0sRgKIIPWdXB1JQqSYuk.css)
+22:11:05	Error: 	"Not Found" (404) at link 206.81.1.69/sites/all/themes/observatorio/assets/stylesheets/bootstrap/glyphicons-halflings-regular.ttf (from 206.81.1.69/sites/default/files/css/css_uB77O8GFXXg4EF3AIWjF9gi0sRgKIIPWdXB1JQqSYuk.css)
+22:11:05	Error: 	"Not Found" (404) at link 206.81.1.69/sites/all/themes/observatorio/assets/stylesheets/bootstrap/glyphicons-halflings-regular.svg (from 206.81.1.69/sites/default/files/css/css_uB77O8GFXXg4EF3AIWjF9gi0sRgKIIPWdXB1JQqSYuk.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 28 minutes 48 seconds : 144 links scanned, 136 files written (123870431 bytes overall) [123893201 bytes received at 23253 bytes/sec], 108162 bytes transferred using HTTP compression in 6 files, ratio 18%, 1.3 requests per connection
+(5 errors, 5 warnings, 0 messages)

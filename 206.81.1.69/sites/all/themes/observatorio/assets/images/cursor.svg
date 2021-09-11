@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="22px" viewBox="0 0 10 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>setinha mouse</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="setinha-mouse" sketch:type="MSLayerGroup" fill="#009345">
+            <path d="M4.047,10.929 L0.097,16.617 L4.047,21.934 L5.601,21.934 L5.6,11.307 L9.546,5.62 L5.598,0.065 L4.045,0.065 L4.047,10.929 L4.047,10.929 Z M4.047,19.443 L1.93,16.596 L4.047,13.544 L4.047,19.443 L4.047,19.443 Z M7.725,5.63 L5.598,8.692 L5.598,2.636 L7.725,5.63 L7.725,5.63 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

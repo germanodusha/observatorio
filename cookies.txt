@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+206.81.1.69	TRUE	/	FALSE	1999999999	SESScc34764baafa367b5cb0612af571ecd6	7MdkIzq2Si5u8RpapyZ_nGETeRI74cG6kob98F-qKgI
+
